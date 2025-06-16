@@ -62,5 +62,6 @@ def main():
 
     print("Selesai semua target.")
 
-if _name_ == "__main__":
+if __name__ == "__main__":
     main()
+    
